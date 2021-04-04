@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="userList">UserList</string>
+    <string name="submit">登録</string>
+    <string name="string_submit">submit</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="back">戻る</string>
+</resources>
